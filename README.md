@@ -13,7 +13,7 @@ The user can search courses based on the following parameters:
 - condition (optional input) : Class_Closed or Class_Full
 
 
-url link =  url_address/<semester>/<year>/<keyword>/<credits>/<school>/<major>/<time>/<condition (optional)>
+url link =  url_address/<semester>/year/keyword/credits/school/major/time/condition (optional)
 
 ie. localhost:3000/Fall/2020/Electrical/3/ENG/ME/MW
 
